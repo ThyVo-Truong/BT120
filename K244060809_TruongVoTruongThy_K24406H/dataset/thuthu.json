@@ -1,0 +1,20 @@
+[
+    {
+        "ma_nguoi_dung": "TT1",
+        "ten": "Lê Thị Hoa",
+        "ten_dang_nhap": "lehoa",
+        "mat_khau": "000000"
+    },
+    {
+        "ma_nguoi_dung": "TT2",
+        "ten": "Nguyễn Minh Tú",
+        "ten_dang_nhap": "minhtu",
+        "mat_khau": "111111"
+    },
+    {
+        "ma_nguoi_dung": "TT3",
+        "ten": "Phạm Thành Đạt",
+        "ten_dang_nhap": "datpham",
+        "mat_khau": "222222"
+    }
+]

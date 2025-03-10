@@ -1,0 +1,38 @@
+[
+    {
+        "EmployeeId": "E1",
+        "EmployeeName": "Teo",
+        "UserName": "teo",
+        "Password": "123"
+    },
+    {
+        "EmployeeId": "E2",
+        "EmployeeName": "Ty",
+        "UserName": "ty",
+        "Password": "5g6"
+    },
+    {
+        "EmployeeId": "E3",
+        "EmployeeName": "Bin",
+        "UserName": "bin",
+        "Password": "b62"
+    },
+    {
+        "EmployeeId": "E4",
+        "EmployeeName": "Bo",
+        "UserName": "bo",
+        "Password": "965"
+    },
+    {
+        "EmployeeId": "E5",
+        "EmployeeName": "Bun",
+        "UserName": "bun",
+        "Password": "gdy"
+    },
+    {
+        "EmployeeId": "E6",
+        "EmployeeName": "Tun",
+        "UserName": "tun",
+        "Password": "8gf"
+    }
+]

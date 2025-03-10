@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.ui.py
+*.qrc.py
+*.xlsx
+*.csv
+.idea/
+*.iml

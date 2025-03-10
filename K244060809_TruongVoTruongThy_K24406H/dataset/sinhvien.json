@@ -1,0 +1,37 @@
+[
+    {
+        "ma_nguoi_dung": "SV1",
+        "ten": "Nguyễn Văn A",
+        "ten_dang_nhap": "nguyenvana",
+        "mat_khau": "123456",
+        "ma_lop": "CNTT"
+    },
+    {
+        "ma_nguoi_dung": "SV2",
+        "ten": "Trần Thị B",
+        "ten_dang_nhap": "tranb",
+        "mat_khau": "654321",
+        "ma_lop": "Kinh tế"
+    },
+    {
+        "ma_nguoi_dung": "SV3",
+        "ten": "Lê Văn C",
+        "ten_dang_nhap": "levanc",
+        "mat_khau": "111111",
+        "ma_lop": "Quản trị"
+    },
+    {
+        "ma_nguoi_dung": "SV4",
+        "ten": "Phạm Văn D",
+        "ten_dang_nhap": "phamvd",
+        "mat_khau": "222222",
+        "ma_lop": "Công nghệ"
+    },
+    {
+        "ma_nguoi_dung": "SV5",
+        "ten": "Hoàng Thị E",
+        "ten_dang_nhap": "hoangte",
+        "mat_khau": "333333",
+        "ma_lop": "Marketing"
+    }
+]

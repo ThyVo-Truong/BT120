@@ -1,0 +1,37 @@
+[
+    {
+        "ma_sach": "S1",
+        "ten_sach": "Lập trình Python",
+        "tac_gia": "Nguyễn Văn A",
+        "nam_xb": 2021,
+        "so_luong": 10
+    },
+    {
+        "ma_sach": "S2",
+        "ten_sach": "Học máy cơ bản",
+        "tac_gia": "Trần B",
+        "nam_xb": 2022,
+        "so_luong": 5
+    },
+    {
+        "ma_sach": "S3",
+        "ten_sach": "Khoa học dữ liệu",
+        "tac_gia": "Lê C",
+        "nam_xb": 2020,
+        "so_luong": 7
+    },
+    {
+        "ma_sach": "S4",
+        "ten_sach": "Trí tuệ nhân tạo",
+        "tac_gia": "Phạm D",
+        "nam_xb": 2019,
+        "so_luong": 8
+    },
+    {
+        "ma_sach": "S5",
+        "ten_sach": "Lập trình Web",
+        "tac_gia": "Hoàng E",
+        "nam_xb": 2023,
+        "so_luong": 12
+    }
+]
